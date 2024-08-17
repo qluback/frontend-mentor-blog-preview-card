@@ -62,7 +62,8 @@ body {
 
 main {
   background: #FFFFFF;
-  max-width: 380px;
+  max-width: 450px;
+  margin: 0 1rem;
   padding: 1.5rem;
   border-radius: 1rem;
   display: flex;
