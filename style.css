@@ -60,7 +60,7 @@ body {
   color: hsl(0, 0%, 7%);
 }
 
-section {
+main {
   background: #FFFFFF;
   max-width: 380px;
   padding: 1.5rem;
